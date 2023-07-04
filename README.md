@@ -1,12 +1,12 @@
 <div>
   
   <h1 align="center">
-    Olá me chamo 
+    Olá, me chamo 
     <a href="https://www.linkedin.com/in/diogenes-precioso-/">Diogenes Precioso 😃️</a>
   </h1>
   
   <p align="center">
-    Sou Desenvolvedor iniciante e gostaria muito de apresentar meu perfil
+    Sou Desenvolvedor iniciante e gostaria muito de apresentar meu perfil com minhas habilidades, stacks, skills e projetos que venho desenvolvendo nos meus estudos
     <a href="https://www.youtube.com/channel/UCViaNBT0SIeiVnZSEEtIfjw?sub_confirmation=1" target="_blank">
   </p>
   
